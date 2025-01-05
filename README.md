@@ -1,1 +1,1 @@
-# problem-solving-cpp
+# Some Katas in Cpp
